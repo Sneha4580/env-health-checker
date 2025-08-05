@@ -1,0 +1,30 @@
+----- System Health Check -----
+Disk Usage: 1%
+[0;32mDisk usage is normal.[0m
+Memory Usage: 5.31%
+[0;32mMemory usage is normal.[0m
+CPU Load (1 min): 0.04
+[0;32mCPU load is normal.[0m
+[0;31mService ssh is not running![0m
+[0;32mService cron is running.[0m
+-------------------------------
+----- System Health Check -----
+Disk Usage: 1%
+[0;32mDisk usage is normal.[0m
+Memory Usage: 5.32%
+[0;32mMemory usage is normal.[0m
+CPU Load (1 min): 0.00
+[0;32mCPU load is normal.[0m
+[0;31mService ssh is not running![0m
+[0;32mService cron is running.[0m
+-------------------------------
+----- System Health Check -----
+Disk Usage: 1%
+[0;32mDisk usage is normal.[0m
+Memory Usage: 5.31%
+[0;32mMemory usage is normal.[0m
+CPU Load (1 min): 0.00
+[0;32mCPU load is normal.[0m
+[0;31mService ssh is not running![0m
+[0;32mService cron is running.[0m
+-------------------------------
